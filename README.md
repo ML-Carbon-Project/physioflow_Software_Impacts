@@ -16,7 +16,7 @@ cited in the article's code-metadata table (C2, C8).
 |---|---|
 | `physioflow-softwareimpacts.tex` | manuscript source |
 | `refs.bib` | bibliography |
-| `physioflow_SoftwareImpacts_v1.pdf` | compiled manuscript |
+| `physioflow_SoftwareImpacts_v01.pdf` | compiled manuscript |
 | `figs/` | the five figures used in the manuscript |
 | `Highlights.docx` | highlights (5 bullets, ≤85 characters each) |
 | `cover_letter_software_impacts.docx` | cover letter |
