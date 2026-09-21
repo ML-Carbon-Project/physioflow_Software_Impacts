@@ -65,7 +65,7 @@ C1 & Current code version & v1.0 \\
 \hline
 C2 & Permanent link to code/repository used for this code version & \url{https://github.com/ML-Carbon-Project/physioFlow} \\
 \hline
-C3 & Permanent link to Reproducible Capsule & \url{https://github.com/ML-Carbon-Project/physioFlow} \\
+C3 & Permanent link to Reproducible Capsule & \url{https://doi.org/10.24433/CO.9901925.v1} \\
 \hline
 C4 & Legal code license & GPLv2 with mandatory citation clause \\
 \hline
@@ -279,7 +279,7 @@ One scholarly contribution has so far been produced with \emph{PhysioFlow}: the 
 The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
 
 \section*{Data availability}
-The source code, the documentation and the public datasets used in Section~\ref{sec:ex-generic} (Yates oats and Palmer penguins) are openly available in the repository listed in the Code metadata table, together with a synthetic ecophysiology dataset that reproduces the reference schema. The two public analyses of Section~\ref{sec:ex-generic} are fully reproducible from a clean checkout: the datasets ship under \texttt{data/sample/test/}, and a single headless command, \texttt{python reproduce\_examples.py}, regenerates the split-plot ANOVA of Table~\ref{tbl:oats} and the penguins correlation and classification scores; the same entry point backs the Code Ocean reproducible capsule (C3). The synthetic dataset reproduces the pipeline and guard-rail steps of Section~\ref{sec:ex-physio} on the same schema, but not its measured values. The field campaign of Section~\ref{sec:ex-physio} belongs to an ongoing research project and cannot be released; the figures derived from it are de-identified.
+The source code, the documentation and the public datasets used in Section~\ref{sec:ex-generic} (Yates oats and Palmer penguins) are openly available in the repository listed in the Code metadata table, together with a synthetic ecophysiology dataset that reproduces the reference schema. The two public analyses of Section~\ref{sec:ex-generic} are fully reproducible from a clean checkout: the datasets ship under \texttt{data/sample/test/}, and the command \texttt{python reproduce\_examples.py} regenerates the split-plot ANOVA of Table~\ref{tbl:oats} and the penguins correlation and classification scores. The software is also deposited as a Code Ocean capsule (C3); its Reproducible Run executes this script together with the experimental-design cross-validation against R and the software test suite, while a Streamlit workstation opens the application itself, and the synthetic dataset reproduces the pipeline and guard-rail behaviour of Section~\ref{sec:ex-physio} without the restricted measurements. The field campaign of Section~\ref{sec:ex-physio} belongs to an ongoing research project and cannot be released; the figures derived from it are de-identified.
 
 %% ====================================================================
 \section*{Acknowledgements}
