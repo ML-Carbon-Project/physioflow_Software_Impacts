@@ -10,6 +10,10 @@
 \usepackage{titlesec}
 \usepackage{amssymb}
 \usepackage{graphicx}
+% As figuras ficam em figs/ no repositorio, mas o Editorial Manager achata
+% os uploads num diretorio so. Com graphicspath e \includegraphics sem
+% prefixo de pasta, o mesmo fonte compila nos dois casos.
+\graphicspath{{figs/}{./}}
 \usepackage{booktabs}
 \usepackage{makecell}
 \usepackage{float}
@@ -170,7 +174,7 @@ The \texttt{src/} package is organised by concern: \texttt{schema.py} validates 
 
 \begin{figure}[htbp]
   \centering
-  \includegraphics[width=\linewidth]{figs/upload_schema.png}
+  \includegraphics[width=\linewidth]{upload_schema.png}
   \caption{Upload page after ingestion of an ecophysiology dataset. The schema validator reports each expected column with its severity tier, the resolved column name, the detected type and the dependent feature.}\label{fig:upload}
 \end{figure}
 
@@ -178,7 +182,7 @@ The \texttt{src/} package is organised by concern: \texttt{schema.py} validates 
 
 \begin{figure}[htbp]
   \centering
-  \includegraphics[width=\linewidth]{figs/pipeline_audit.png}
+  \includegraphics[width=\linewidth]{pipeline_audit.png}
   \caption{Step-by-step audit of the cleaning pipeline applied to the de-identified Rio Verde dataset. Each row reports lines before/after and the share removed; the essential-metadata filter alone removes 94.9\% of the raw rows, triggering the high-discard warning.}\label{fig:pipeline}
 \end{figure}
 
@@ -186,7 +190,7 @@ The \texttt{src/} package is organised by concern: \texttt{schema.py} validates 
 
 \begin{figure}[htbp]
   \centering
-  \includegraphics[width=\linewidth]{figs/confounding.png}
+  \includegraphics[width=\linewidth]{confounding.png}
   \caption{Data-quality tab auditing categorical confounding. On the Rio Verde dataset the tool detects that \emph{Fazenda} (farm), \emph{Cultura} (crop) and \emph{Uso atual} (land use) are perfectly redundant (Cram\'er's V $=1.00$), warning the user that farm, crop and land-use effects cannot be identified separately from this sampling design.}\label{fig:confounding}
 \end{figure}
 
@@ -215,13 +219,13 @@ The Modelling page then predicted net photosynthesis ($A$, $n=71$) from gas-exch
 
 \begin{figure}[htbp]
   \centering
-  \includegraphics[width=\linewidth]{figs/modeling_comparison.png}
+  \includegraphics[width=\linewidth]{modeling_comparison.png}
   \caption{Modelling page comparing five supervised regressors for net photosynthesis ($A$) on the Rio Verde dataset in a single run, reporting holdout $R^2$, MAE and RMSE alongside cross-validated $R^2$ (mean and standard deviation). Linear Regression attains the highest cross-validated skill, with Random Forest a distant second; here the GroupKFold-per-site guard-rail (grouping on \emph{farm + point}) is enabled to curb pseudoreplication.}\label{fig:modeling}
 \end{figure}
 
 \begin{figure}[htbp]
   \centering
-  \includegraphics[width=\linewidth]{figs/stl_blocked.png}
+  \includegraphics[width=\linewidth]{stl_blocked.png}
   \caption{Time Series page on the Rio Verde dataset. Because the campaign contains only three distinct collection dates, below the ten-date threshold, the STL guard-rail blocks the decomposition and reports the reason instead of producing an interpolation-dominated result.}\label{fig:stl}
 \end{figure}
 
