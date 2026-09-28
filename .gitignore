@@ -1,6 +1,9 @@
 # artefatos de compilação LaTeX
 *.aux
 *.bbl
+# ...menos o do fonte submetido: a bibliografia vive dentro do .tex, e este
+# .bbl e' a fonte de onde ela saiu (o Editorial Manager nao roda bibtex).
+!physioflow-softwareimpacts_v02_Final.bbl
 *.blg
 *.log
 *.out

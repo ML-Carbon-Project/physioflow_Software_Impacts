@@ -1,0 +1,268 @@
+\begin{thebibliography}{44}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Lambers et~al.(2008)Lambers, Chapin, and Pons]{Lambers2008}
+Hans Lambers, F.~Stuart Chapin, and Thijs~L. Pons.
+\newblock \emph{Plant Physiological Ecology}.
+\newblock Springer, New York, 2nd edition, 2008.
+\newblock \doi{10.1007/978-0-387-78341-3}.
+
+\bibitem[Long et~al.(2006)Long, Zhu, Naidu, and Ort]{Long2006}
+Stephen~P. Long, Xin-Guang Zhu, Shawna~L. Naidu, and Donald~R. Ort.
+\newblock Can improvement in photosynthesis increase crop yields?
+\newblock \emph{Plant, Cell \& Environment}, 29\penalty0 (3):\penalty0 315--330, 2006.
+\newblock \doi{10.1111/j.1365-3040.2005.01493.x}.
+
+\bibitem[Farquhar et~al.(1980)Farquhar, von Caemmerer, and Berry]{Farquhar1980}
+G.~D. Farquhar, S.~von Caemmerer, and J.~A. Berry.
+\newblock A biochemical model of photosynthetic co$_2$ assimilation in leaves of c$_3$ species.
+\newblock \emph{Planta}, 149\penalty0 (1):\penalty0 78--90, 1980.
+\newblock \doi{10.1007/BF00386231}.
+
+\bibitem[von Caemmerer(2000)]{vonCaemmerer2000}
+Susanne von Caemmerer.
+\newblock \emph{Biochemical Models of Leaf Photosynthesis}.
+\newblock CSIRO Publishing, Collingwood, 2000.
+
+\bibitem[Long and Bernacchi(2003)]{Long2003}
+S.~P. Long and C.~J. Bernacchi.
+\newblock Gas exchange measurements, what can they tell us about the underlying limitations to photosynthesis? procedures and sources of error.
+\newblock \emph{Journal of Experimental Botany}, 54\penalty0 (392):\penalty0 2393--2401, 2003.
+\newblock \doi{10.1093/jxb/erg262}.
+
+\bibitem[Maxwell and Johnson(2000)]{Maxwell2000}
+Kate Maxwell and Giles~N. Johnson.
+\newblock Chlorophyll fluorescence---a practical guide.
+\newblock \emph{Journal of Experimental Botany}, 51\penalty0 (345):\penalty0 659--668, 2000.
+\newblock \doi{10.1093/jexbot/51.345.659}.
+
+\bibitem[Baker(2008)]{Baker2008}
+Neil~R. Baker.
+\newblock Chlorophyll fluorescence: a probe of photosynthesis in vivo.
+\newblock \emph{Annual Review of Plant Biology}, 59:\penalty0 89--113, 2008.
+\newblock \doi{10.1146/annurev.arplant.59.032607.092759}.
+
+\bibitem[Br{\'e}da(2003)]{Breda2003}
+Nathalie J.~J. Br{\'e}da.
+\newblock Ground-based measurements of leaf area index: a review of methods, instruments and current controversies.
+\newblock \emph{Journal of Experimental Botany}, 54\penalty0 (392):\penalty0 2403--2417, 2003.
+\newblock \doi{10.1093/jxb/erg263}.
+
+\bibitem[de~Oliveira et~al.(2017)de~Oliveira, de~Souza, Cunha, e~Silva, and Veloso]{Oliveira2017}
+Wanderson~J. de~Oliveira, Edivan~R. de~Souza, Jailson~C. Cunha, {\^E}nio F. de~F. e~Silva, and Ven{\^a}ncio de~L. Veloso.
+\newblock Leaf gas exchange in cowpea and co$_2$ efflux in soil irrigated with saline water.
+\newblock \emph{Revista Brasileira de Engenharia Agr{\'i}cola e Ambiental}, 21\penalty0 (1):\penalty0 32--37, 2017.
+\newblock \doi{10.1590/1807-1929/agriambi.v21n1p32-37}.
+
+\bibitem[Munjonji et~al.(2021)Munjonji, Ayisi, Mafeo, Maphanga, and Mabitsela]{Munjonji2021}
+L.~Munjonji, K.~K. Ayisi, T.~P. Mafeo, T.~Maphanga, and K.~E. Mabitsela.
+\newblock Seasonal variation in soil co$_2$ emission and leaf gas exchange of well managed commercial citrus sinensis (l.) orchards.
+\newblock \emph{Plant and Soil}, 465:\penalty0 65--81, 2021.
+\newblock \doi{10.1007/s11104-021-04986-x}.
+
+\bibitem[Peters and McFadden(2012)]{Peters2012}
+Emily~B. Peters and Joseph~P. McFadden.
+\newblock Continuous measurements of net co$_2$ exchange by vegetation and soils in a suburban landscape.
+\newblock \emph{Journal of Geophysical Research: Biogeosciences}, 117:\penalty0 G03005, 2012.
+\newblock \doi{10.1029/2011JG001933}.
+
+\bibitem[S{\'a}nchez et~al.(2003)S{\'a}nchez, Ozores, L{\'o}pez, Colle, De~Torre, Garc{\'i}a, and P{\'e}rez]{Sanchez2003}
+M.~L. S{\'a}nchez, M.~I. Ozores, M.~J. L{\'o}pez, R.~Colle, B.~De~Torre, M.~A. Garc{\'i}a, and I.~P{\'e}rez.
+\newblock Soil co$_2$ fluxes beneath barley on the central spanish plateau.
+\newblock \emph{Agricultural and Forest Meteorology}, 118:\penalty0 85--95, 2003.
+\newblock \doi{10.1016/S0168-1923(03)00098-3}.
+
+\bibitem[Guarrera et~al.(2024)Guarrera, Vanella, Consoli, Giudice, Toscano, Ram{\'i}rez-Cuesta, Milani, Ferlito, and Longo]{Guarrera2024}
+S.~Guarrera, D.~Vanella, S.~Consoli, G.~Giudice, S.~Toscano, J.~M. Ram{\'i}rez-Cuesta, M.~Milani, F.~Ferlito, and D.~Longo.
+\newblock Analysis of small-scale soil co$_2$ fluxes in an orange orchard under irrigation and soil conservative practices.
+\newblock \emph{Heliyon}, 10\penalty0 (9):\penalty0 e30543, 2024.
+\newblock \doi{10.1016/j.heliyon.2024.e30543}.
+
+\bibitem[Vourlitis et~al.(2022)Vourlitis, Pinto~Jr., Dalmagro, de~Arruda, Lobo, and Nogueira]{Vourlitis2022}
+George~L. Vourlitis, Osvaldo~Borges Pinto~Jr., Higo~J. Dalmagro, Paulo Enrique~Zanella de~Arruda, Francisco de~Almeida Lobo, and Jos{\'e} de~Souza Nogueira.
+\newblock Net primary production and ecosystem carbon flux of brazilian tropical savanna ecosystems from eddy covariance and inventory methods.
+\newblock \emph{Journal of Geophysical Research: Biogeosciences}, 127\penalty0 (3):\penalty0 e2021JG006780, 2022.
+\newblock \doi{10.1029/2021JG006780}.
+
+\bibitem[{R Core Team}(2024)]{Rcore}
+{R Core Team}.
+\newblock \emph{R: A Language and Environment for Statistical Computing}.
+\newblock R Foundation for Statistical Computing, Vienna, Austria, 2024.
+\newblock URL \url{https://www.R-project.org/}.
+
+\bibitem[Hurlbert(1984)]{Hurlbert1984}
+Stuart~H. Hurlbert.
+\newblock Pseudoreplication and the design of ecological field experiments.
+\newblock \emph{Ecological Monographs}, 54\penalty0 (2):\penalty0 187--211, 1984.
+\newblock \doi{10.2307/1942661}.
+
+\bibitem[{Streamlit Inc.}(2024)]{Streamlit}
+{Streamlit Inc.}
+\newblock Streamlit: A faster way to build and share data apps.
+\newblock \url{https://streamlit.io}, 2024.
+
+\bibitem[da~Silva et~al.(2025)da~Silva, Souza, Ribeiro, Brasileiro, Nardo, Pereira, and Andrade]{daSilva2025Parkinson}
+Daniel~Hil{\'a}rio da~Silva, Leandro Rodrigues da~Silva Souza, Caio~Tonus Ribeiro, Simone Hil{\'a}rio da~Silva Brasileiro, Jos{\'e} Renato~Munari Nardo, Adriano~Alves Pereira, and Adriano de~Oliveira Andrade.
+\newblock A web application for exploratory data analysis and classification of {P}arkinson's disease patients using machine learning models on different datasets.
+\newblock \emph{Software Impacts}, 23:\penalty0 100737, 2025.
+\newblock \doi{10.1016/j.simpa.2024.100737}.
+
+\bibitem[da~Silva et~al.(2026)da~Silva, Abade, Thomazini, Souza, Cabral~Filho, Paim, dos Santos, and Cordeiro]{DaSilva2026Goias}
+Daniel~Hil{\'a}rio da~Silva, Andr{\'e} Abade, Andr{\'e} Thomazini, Leandro Rodrigues da~Silva Souza, Fernando~Rodrigues Cabral~Filho, Tiago do~Prado Paim, Erli~Pinto dos Santos, and Douglas~Farias Cordeiro.
+\newblock Interactive web platform for processing and predictive modeling of greenhouse gas fluxes in soil.
+\newblock In Alan~Carlos da~Costa, Fernando~Rodrigues Cabral~Filho, {\'I}caro~Lunas Nunes, and Leandro Rodrigues da~Silva Souza, editors, \emph{Anais de Resumos do 5\textordmasculine{} CEAGRE Agro Experience, 4\textordmasculine{} Dia de Campo do LEAV e 1st International Symposium on Climate and Agricultural Resilience (ISCAR)}, Rio Verde, Goi{\'a}s, Brazil, 2026. Instituto Federal Goiano.
+\newblock ISBN 978-85-65871-77-8.
+\newblock Abstract.
+
+\bibitem[Magala and Schulte(2026)]{Magala2026apsimNGpy}
+Richard Magala and Lisa~A. Schulte.
+\newblock apsimngpy: A comprehensive python framework for interactive, reproducible, and scalable simulations of the apsim next generation model.
+\newblock \emph{SoftwareX}, 33:\penalty0 102496, 2026.
+\newblock \doi{10.1016/j.softx.2025.102496}.
+
+\bibitem[Crecco and Bajocco(2026)]{Crecco2026prismatools}
+Lorenzo Crecco and Sofia Bajocco.
+\newblock prismatools: An open-source python package for accessing and analyzing prisma hyperspectral data.
+\newblock \emph{SoftwareX}, 34:\penalty0 102547, 2026.
+\newblock \doi{10.1016/j.softx.2026.102547}.
+
+\bibitem[McKinney(2010)]{McKinney2010}
+Wes McKinney.
+\newblock Data structures for statistical computing in python.
+\newblock In \emph{Proceedings of the 9th Python in Science Conference}, pages 56--61, 2010.
+\newblock \doi{10.25080/Majora-92bf1922-00a}.
+
+\bibitem[Harris et~al.(2020)]{Harris2020}
+Charles~R. Harris et~al.
+\newblock Array programming with numpy.
+\newblock \emph{Nature}, 585:\penalty0 357--362, 2020.
+\newblock \doi{10.1038/s41586-020-2649-2}.
+
+\bibitem[Pedregosa et~al.(2011)]{Pedregosa2011}
+F.~Pedregosa et~al.
+\newblock Scikit-learn: Machine learning in python.
+\newblock \emph{Journal of Machine Learning Research}, 12:\penalty0 2825--2830, 2011.
+
+\bibitem[Waskom(2021)]{Waskom2021}
+Michael~L. Waskom.
+\newblock seaborn: statistical data visualization.
+\newblock \emph{Journal of Open Source Software}, 6\penalty0 (60):\penalty0 3021, 2021.
+\newblock \doi{10.21105/joss.03021}.
+
+\bibitem[Hunter(2007)]{Hunter2007}
+John~D. Hunter.
+\newblock Matplotlib: A 2d graphics environment.
+\newblock \emph{Computing in Science \& Engineering}, 9\penalty0 (3):\penalty0 90--95, 2007.
+\newblock \doi{10.1109/MCSE.2007.55}.
+
+\bibitem[Rey and Anselin(2007)]{Rey2007Pysal}
+Sergio~J. Rey and Luc Anselin.
+\newblock Pysal: A python library of spatial analytical methods.
+\newblock \emph{The Review of Regional Studies}, 37\penalty0 (1):\penalty0 5--27, 2007.
+
+\bibitem[Bergsma(2013)]{Bergsma2013}
+Wicher Bergsma.
+\newblock A bias-correction for cram{\'e}r's v and tschuprow's t.
+\newblock \emph{Journal of the Korean Statistical Society}, 42\penalty0 (3):\penalty0 323--328, 2013.
+\newblock \doi{10.1016/j.jkss.2012.10.002}.
+
+\bibitem[Breiman(2001)]{Breiman2001}
+Leo Breiman.
+\newblock Random forests.
+\newblock \emph{Machine Learning}, 45\penalty0 (1):\penalty0 5--32, 2001.
+\newblock \doi{10.1023/A:1010933404324}.
+
+\bibitem[Friedman(2001)]{Friedman2001}
+Jerome~H. Friedman.
+\newblock Greedy function approximation: a gradient boosting machine.
+\newblock \emph{The Annals of Statistics}, 29\penalty0 (5):\penalty0 1189--1232, 2001.
+\newblock \doi{10.1214/aos/1013203451}.
+
+\bibitem[Kruskal and Wallis(1952)]{Kruskal1952}
+William~H. Kruskal and W.~Allen Wallis.
+\newblock Use of ranks in one-criterion variance analysis.
+\newblock \emph{Journal of the American Statistical Association}, 47\penalty0 (260):\penalty0 583--621, 1952.
+\newblock \doi{10.1080/01621459.1952.10483441}.
+
+\bibitem[Shapiro and Wilk(1965)]{ShapiroWilk1965}
+S.~S. Shapiro and M.~B. Wilk.
+\newblock An analysis of variance test for normality (complete samples).
+\newblock \emph{Biometrika}, 52\penalty0 (3--4):\penalty0 591--611, 1965.
+\newblock \doi{10.1093/biomet/52.3-4.591}.
+
+\bibitem[Belsley et~al.(1980)Belsley, Kuh, and Welsch]{Belsley1980VIF}
+David~A. Belsley, Edwin Kuh, and Roy~E. Welsch.
+\newblock \emph{Regression Diagnostics: Identifying Influential Data and Sources of Collinearity}.
+\newblock John Wiley \& Sons, New York, 1980.
+\newblock \doi{10.1002/0471725153}.
+
+\bibitem[Liu et~al.(2008)Liu, Ting, and Zhou]{Liu2008}
+Fei~Tony Liu, Kai~Ming Ting, and Zhi-Hua Zhou.
+\newblock Isolation forest.
+\newblock In \emph{2008 Eighth IEEE International Conference on Data Mining}, pages 413--422, 2008.
+\newblock \doi{10.1109/ICDM.2008.17}.
+
+\bibitem[Breunig et~al.(2000)Breunig, Kriegel, Ng, and Sander]{Breunig2000}
+Markus~M. Breunig, Hans-Peter Kriegel, Raymond~T. Ng, and J{\"o}rg Sander.
+\newblock Lof: Identifying density-based local outliers.
+\newblock In \emph{Proceedings of the 2000 ACM SIGMOD International Conference on Management of Data}, pages 93--104, 2000.
+\newblock \doi{10.1145/342009.335388}.
+
+\bibitem[Scott and Knott(1974)]{ScottKnott1974}
+A.~J. Scott and M.~Knott.
+\newblock A cluster analysis method for grouping means in the analysis of variance.
+\newblock \emph{Biometrics}, 30\penalty0 (3):\penalty0 507--512, 1974.
+\newblock \doi{10.2307/2529204}.
+
+\bibitem[Anselin(1995)]{Anselin1995}
+Luc Anselin.
+\newblock Local indicators of spatial association---{LISA}.
+\newblock \emph{Geographical Analysis}, 27\penalty0 (2):\penalty0 93--115, 1995.
+\newblock \doi{10.1111/j.1538-4632.1995.tb00338.x}.
+
+\bibitem[Getis and Ord(1992)]{Getis1992}
+Arthur Getis and J.~K. Ord.
+\newblock The analysis of spatial association by use of distance statistics.
+\newblock \emph{Geographical Analysis}, 24\penalty0 (3):\penalty0 189--206, 1992.
+\newblock \doi{10.1111/j.1538-4632.1992.tb00261.x}.
+
+\bibitem[Cressie(1993)]{Cressie1993}
+Noel A.~C. Cressie.
+\newblock \emph{Statistics for Spatial Data}.
+\newblock John Wiley \& Sons, New York, revised edition, 1993.
+\newblock \doi{10.1002/9781119115151}.
+
+\bibitem[Cleveland et~al.(1990)Cleveland, Cleveland, McRae, and Terpenning]{Cleveland1990STL}
+Robert~B. Cleveland, William~S. Cleveland, Jean~E. McRae, and Irma Terpenning.
+\newblock Stl: A seasonal-trend decomposition procedure based on loess.
+\newblock \emph{Journal of Official Statistics}, 6\penalty0 (1):\penalty0 3--73, 1990.
+
+\bibitem[Mann and Whitney(1947)]{Mann1947}
+H.~B. Mann and D.~R. Whitney.
+\newblock On a test of whether one of two random variables is stochastically larger than the other.
+\newblock \emph{The Annals of Mathematical Statistics}, 18\penalty0 (1):\penalty0 50--60, 1947.
+\newblock \doi{10.1214/aoms/1177730491}.
+
+\bibitem[Yates(1935)]{Yates1935}
+Frank Yates.
+\newblock Complex experiments.
+\newblock \emph{Supplement to the Journal of the Royal Statistical Society}, 2\penalty0 (2):\penalty0 181--247, 1935.
+\newblock \doi{10.2307/2983638}.
+
+\bibitem[Pinheiro and Bates(2000)]{Pinheiro2000}
+Jos{\'e}~C. Pinheiro and Douglas~M. Bates.
+\newblock \emph{Mixed-Effects Models in S and S-PLUS}.
+\newblock Springer, New York, 2000.
+\newblock \doi{10.1007/978-1-4419-0318-1}.
+
+\bibitem[Gorman et~al.(2014)Gorman, Williams, and Fraser]{Gorman2014}
+Kristen~B. Gorman, Tony~D. Williams, and William~R. Fraser.
+\newblock Ecological sexual dimorphism and environmental variability within a community of antarctic penguins (genus \emph{Pygoscelis}).
+\newblock \emph{PLoS ONE}, 9\penalty0 (3):\penalty0 e90081, 2014.
+\newblock \doi{10.1371/journal.pone.0090081}.
+
+\end{thebibliography}
